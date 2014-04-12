@@ -1,2 +1,2 @@
-akikan
+android application akikan
 ======
