@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="numPeople">人数：</string>
+    <string name="people">人</string>
+    <string name="money">金額：</string>
+    <string name="yen">円</string>
+    <string name="oneMoney">一人あたりの金額</string>
+    <string name="calc">計算</string>
+    <string name="result">xxxx</string>
+
+</resources>
